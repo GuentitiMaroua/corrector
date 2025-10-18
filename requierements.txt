@@ -1,0 +1,14 @@
+flask
+flask-cors
+flask-bcrypt
+flask-jwt-extended
+flask-pymongo
+pymongo
+certifi
+language-tool-python
+spacy
+pyspellchecker
+autocorrect
+langdetect
+transformers
+torch
